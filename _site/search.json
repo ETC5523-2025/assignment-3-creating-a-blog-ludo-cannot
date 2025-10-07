@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, my name is Can Li 👋.\nI am currently studying a Master of Business Analytics at Monash University 📊. I have already completed a M.Ed in Digital Learning and a B.Ed. (Hons.) in Primary and Secondary Education 👩🏻‍🏫. With more than seven years of teaching experience across secondary schools, primary schools, private education institutions, and language schools, I have taught subjects such as VCE Specialist Mathematics, VCE Chemistry, junior mathematics, general science, STEAM/STEM, Digital Technologies, and Chinese (LoTE). Over time, my interest shifted toward data and technology, and I became passionate about how analytics can be used to support decision-making and improve real-world outcomes.\nRight now, I am doing an industry project with the Asia-Pacific Association for International Education (APAIE) 🌏. I work with multi-year conference registration and feedback data, which involves cleaning and standardising datasets, creating interactive dashboards in R, and carrying out text and statistical analysis. This project has given me the chance to combine my technical skills with practical applications, especially in areas like data wrangling, forecasting, and visualisation.\nI am currently based in Canberra 🦘, having recently transitioned from Melbourne. The move has given me the chance to explore a new environment while continuing to grow academically and professionally. I enjoy discovering Canberra’s coffee culture ☕ and natural surroundings 🌿. I also like working on creative projects that bring together design, data, and storytelling. Looking ahead, I hope to keep building my career in analytics, with a focus on projects that have meaningful impact."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\n  \n     clii0016@student.monash.edu\n  \n  \n     ludo-cannot"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think",
+    "section": "",
+    "text": "Imagine arriving at hospital expecting care, comfort, and recovery. The hallways are bright, the staff are professional, and you trust you are in safe hands. Yet for many patients, the hospital stay comes with an unexpected twist, and sometime turns into a nightmare. Some patients leave the hospital with a healthier condition; some leave with the illness treated, but also carrying a new infection picked up along the way. But, a few of them, unfortunately would leave the world they forever love due to cross infections in the hospital.\nThese specific “quiet companions” of hospital care are called healthcare-associated infections (HAIs). They do not make headlines the way dramatic accidents or rare diseases do, but they shape the lives of patients and families in profound ways. Behind every infection is a story of a stay that was meant to heal but instead brought new suffering. Families who expected relief are faced with longer recoveries, complications, or even loss."
+  },
+  {
+    "objectID": "blog-post.html",
+    "href": "blog-post.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think\n\n\n\nHealth\n\n\n\n\n\n\n\n\n\nSep 21, 2025\n\n\nCan Li\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome.",
+    "section": "",
+    "text": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think. (Read)"
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-picture-that-was-not-clear",
+    "href": "posts/welcome/index.html#a-picture-that-was-not-clear",
+    "title": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think",
+    "section": "A Picture That Was Not Clear",
+    "text": "A Picture That Was Not Clear\nGermany presents a striking example of this hidden burden. On the surface, its hospitals appear to be performing well, with lower infection rates than many of their European counterparts. That paints a reassuring picture, but it does not capture the full reality. The true challenge lies not inside the wards alone but in the sheer scale of hospital use. Germany admits more patients than almost any other country in Europe, and each admission creates another opportunity for infections to spread (Figure 1) (European Centre for Disease Control and Prevention (ECDC) 2012; Zacher et al. 2019).\n\n\n\n\n\n\nFigure 1: Estimated deaths and burden of disease linked to five common hospital infections in Germany compared with the EU/EEA average, 2011–2012.\n\n\n\nInfections that start during a hospital stay are a worry for patients and for health systems. They can slow down recovery, add new complications, and sometimes even lead to death. While single cases can be counted, it is harder to see the bigger picture of how much these infections affect a whole country. Health leaders need that wider view in order to decide where to focus their efforts.\nIn Germany, this picture was not entirely clear. Earlier research had drawn on mixed data sources and different methods, which made comparisons across countries difficult. Some studies offered counts of cases or hospital prevalence rates, but these measures alone did not show the full weight of the problem. Estimates expressed in disability adjusted life years might offer a way to rank hospital infections alongside other health conditions and to see how Germany compares with its neighbours.\nThis uncertainty about the national burden of hospital infections created a blind spot for Germany. Researchers set out to close that gap by giving a clearer picture of how big the problem might be and how it compares with other countries."
+  },
+  {
+    "objectID": "posts/welcome/index.html#gathering-the-clues",
+    "href": "posts/welcome/index.html#gathering-the-clues",
+    "title": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think",
+    "section": "Gathering the Clues",
+    "text": "Gathering the Clues\nTo explore this problem, researchers turned to a Europe-wide hospital survey carried out in 2011 and 2012. Hospitals across the continent recorded details about patients, treatments, and whether infections had developed during their stay.\nGermany contributed two sets of data to this survey. One was a carefully designed national sample intended to reflect the diversity of hospitals in the country. The other was a larger but less structured sample that offered additional information. Looking at both together provided a broad and detailed foundation for analysis.\nThe focus was on five common types of hospital infections. These included\n\nhealthcare-associated pneumonia (HAP),\nhealthcare-associated primary bloodstream infection (BSI),\nhealthcare-associated urinary tract infection (UTI),\nhealthcare-associated Clostridioides difficile (C. difficile) infection (CDI),\nsurgical site infection (SSI).\n\nEach of these is well known to cause serious problems for patients and strain for health systems, making them natural candidates for closer study."
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-new-lens-on-the-problem",
+    "href": "posts/welcome/index.html#a-new-lens-on-the-problem",
+    "title": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think",
+    "section": "A New Lens on the Problem",
+    "text": "A New Lens on the Problem\nWhat set this work apart was not only the survey data but also the method used to interpret it. The research team created a new approach packaged in an open-source software tool called BHAI. By making the tool freely available, they aimed to give countries a consistent way to estimate the overall impact of hospital infections.\nInstead of just counting cases, the method translated infections into a measure of health loss across the population. It looked at how infections affect both length of life and quality of life, giving a more complete picture of the harm they cause. This approach also made it possible to compare Germany directly with its European neighbours using the same yardstick.\nThe results showed patterns that might otherwise have been missed. Some infections, like urinary tract infections, were very common but tended to be less severe. Others, such as pneumonia and bloodstream infections, were less frequent but caused much greater harm overall. The burden was not spread evenly either. Older patients were most affected, reflecting both their higher risk of infection and their greater vulnerability when things go wrong.\nResearchers suggests that Germany carries a heavier overall burden of hospital infections than many other European countries, even though infection rates inside its hospitals are not especially high (Table 1). A likely reason is the country’s reliance on hospital care, with more beds and more admissions creating more chances for infections to spread.\n\n\n\n\nTable 1: Annual burden estimates for five common healthcare-associated infections in Germany compared with the European average, 2011–2012\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint estimate (95% UI)\n\n\n\nAnnual burden measure\nSample\nHAP Point estimate (95% UI)\nUTI Point estimate (95% UI)\nBSI Point estimate (95% UI)\nSSI Point estimate (95% UI)\nCDI Point estimate (95% UI)\nAll Point estimate (95% UI)\n\n\n\n\nHAIs per 100,000\nGerman PPS\n132.0 (103.5-170.2)\n265.1 (216.8-313.9)\n33.4 (20.5-52.3)\n115.4 (93.3-141.4)\n44.6 (31.1-61.8)\n592.1 (521.7-665.8)\n\n\n\nGerman convenience\n162.3 (137.5-190.7)\n228.7 (200-260.7)\n52.7 (42-66.9)\n146.9 (126.5-167.8)\n44.5 (35.6-55.4)\n636.1 (586.7-689.2)\n\n\n\nECDC PPS (EU/EEA)\n143.7 (136.9-150.8)\n174.7 (166.3-182.4)\n22.2 (20-25.1)\n111.3 (105.4-116.6)\n16.0 (14.2-18.3)\n467.9 (456.2-480.2)\n\n\nAttributable deaths per 100,000\nGerman PPS\n4.9 (1.4-10.1)\n4.5 (1.8-9.3)\n4.8 (2.5-8.7)\n2.9 (2.3-3.6)\n2.4 (0.1-5.6)\n20.1 (13.4-28.2)\n\n\n\nGerman convenience\n6.1 (1.4-11.7)\n3.9 (1.6-8)\n7.9 (4.7-11.8)\n3.7 (3.2-4.2)\n2.5 (0.1-5.3)\n24.4 (17.2-32.6)\n\n\n\nECDC PPS (EU/EEA)\n5.3 (1.3-10.2)\n3.0 (1.2-5.9)\n3.3 (2.1-4.6)\n2.6 (2.4-2.7)\n0.9 (0-1.8)\n15.3 (10.2-21.2)\n\n\nDALYs per 100,000\nGerman PPS\n86.1 (42.1-145.1)\n82.6 (34.5-159.2)\n72.2 (38.3-129)\n35.7 (28.9-43.7)\n25.9 (2.5-61.2)\n308.2 (221.2-416.3)\n\n\n\nGerman convenience\n103.4 (51.5-166.5)\n69.5 (29.9-127.7)\n113.5 (72.2-166)\n45.0 (38.8-51.3)\n26.5 (2.5-55.6)\n359.3 (266.6-461.5)\n\n\n\nECDC PPS (EU/EEA)\n109.8 (55.3-170.5)\n57.1 (24.3-102.9)\n76.2 (52.6-104.8)\n35.1 (33.3-36.8)\n10.0 (0.9-19.2)\n290.0 (214.9-376.9)"
+  },
+  {
+    "objectID": "posts/welcome/index.html#steps-toward-safer-care",
+    "href": "posts/welcome/index.html#steps-toward-safer-care",
+    "title": "Germany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think",
+    "section": "Steps Toward Safer Care",
+    "text": "Steps Toward Safer Care\nAddressing this issue may require action on two levels. At the system level, reducing avoidable hospital stays could lower exposure in the first place. At the clinical level, prevention efforts might need to focus most on the infections that cause the greatest harm, especially pneumonia (HAP), bloodstream infections (BSI), and Clostridioides difficile (CDI). Good hygiene, infection control, and careful use of antibiotics remain essential parts of the solution.\nJust as important is the new method itself. By offering a clearer and more consistent way to measure the impact of hospital infections, the BHAI tool helps countries see where their biggest challenges lie. With better information and well-directed strategies, the burden of these infections can be reduced, and hospitals can come closer to fulfilling their role as places of healing rather than hidden harm.\nWhen people walk into a hospital, they hope to leave healthier than when they arrived. With better prevention strategies and clearer information, hospitals can live up to that expectation and remain places of recovery rather than sources of harm."
+  },
+  {
+    "objectID": "index.html#recent-blog-posts",
+    "href": "index.html#recent-blog-posts",
+    "title": "Welcome.",
+    "section": "Recent blog posts",
+    "text": "Recent blog posts\n\nGermany’s Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think. (Read)"
+  },
+  {
+    "objectID": "index.html#current-working-projects",
+    "href": "index.html#current-working-projects",
+    "title": "Welcome.",
+    "section": "Current working projects",
+    "text": "Current working projects\n\n[📊Data Anaysis] Data analysis project for Asia-Pacific Association for International Education (APAIE) (host by ETC5543, Monash University, 2025)"
+  },
+  {
+    "objectID": "index.html#completed-working-project",
+    "href": "index.html#completed-working-project",
+    "title": "Welcome.",
+    "section": "Completed working project",
+    "text": "Completed working project\n\n[👩🏻‍🏫 Education] Instructional Design Project: Year 8 STEM-Immersion Program (EDF5648, Monash University, 2022)\n[📊 Data Analysis] Exploration the educational resource distribution in Melbourne Major Cities through ACARA’s School Profile 2020 (FIT5147, Monash University, 2022)\n[👩🏻‍🏫 Education] An Investigation into STEAM Integration: Teaching Practice and Teachers’ Perspectives. (EDF4100 & EDF4101, Monash University, 2020)"
+  }
+]
