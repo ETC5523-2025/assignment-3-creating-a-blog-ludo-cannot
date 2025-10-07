@@ -1,13 +1,84 @@
 ---
 title: "About"
-image: profile.jpg
+image: p2.jpg
+engine: knitr
 about:
   template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
+---
+
+```{css, echo = FALSE}
+#quarto-document-content p{
+  text-align: left;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 230 !important;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px auto;
+  text-align: center;
+  max-width: 300px;
+}
+.contact-link {
+  text-decoration: none;
+  color: #333;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.contact-link:hover {
+  color: #0066cc;
+  text-decoration: none;
+}
+.contact-link i {
+  width: 20px;
+  text-align: center;
+}
+```
+
+```{=html}
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/ludo-cannot" class="btn btn-outline-dark btn-sm me-2">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+  <a href="https://www.linkedin.com/in/ludovica-can-li/" class="btn btn-outline-primary btn-sm">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+</div>
+```
+
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+\
+
+Hi, my name is **Can Li** 👋. 
+
+I am currently studying a Master of Business Analytics at Monash University 📊. I have already completed a M.Ed in Digital Learning and a B.Ed. (Hons.) in Primary and Secondary Education 👩🏻‍🏫. With more than seven years of teaching experience across secondary schools, primary schools, private education institutions, and language schools, I have taught subjects such as VCE Specialist Mathematics, VCE Chemistry, junior mathematics, general science, STEAM/STEM, Digital Technologies, and Chinese (LoTE). Over time, my interest shifted toward data and technology, and I became passionate about how analytics can be used to support decision-making and improve real-world outcomes.
+
+Right now, I am doing an industry project with the Asia-Pacific Association for International Education (APAIE) 🌏. I work with multi-year conference registration and feedback data, which involves cleaning and standardising datasets, creating interactive dashboards in R, and carrying out text and statistical analysis. This project has given me the chance to combine my technical skills with practical applications, especially in areas like data wrangling, forecasting, and visualisation.
+
+
+I am currently based in Canberra 🦘, having recently transitioned from Melbourne. The move has given me the chance to explore a new environment while continuing to grow academically and professionally. I enjoy discovering Canberra’s coffee culture ☕ and natural surroundings 🌿. I also like working on creative projects that bring together design, data, and storytelling. Looking ahead, I hope to keep building my career in analytics, with a focus on projects that have meaningful impact.
+
+\
+
+---
+
+
+
+## Contact
+```{=html}
+<div class="contact-links" style="text-align: center;">
+  <a href="mailto:clii0016@student.monash.edu" class="contact-link">
+    <i class="fas fa-envelope"></i> clii0016@student.monash.edu
+  </a>
+  <a href="https://github.com/ludo-cannot" class="contact-link">
+    <i class="fab fa-github"></i> ludo-cannot
+  </a>
+</div>
+```
+
+

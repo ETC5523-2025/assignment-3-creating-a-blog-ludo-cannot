@@ -1,14 +1,23 @@
 ---
-title: "ETC5523 Blog Assessment"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
+title: "Welcome."
+subtitle: "I am a future data analyst wishing to turn education and research data into clear, actionable insights."
 title-block-banner: true
 ---
 
+![](p5.jpg)
 
+## Recent blog posts
+
+- Germany's Hidden Healthcare Crisis: Why Hospital Infections Are Costing More Lives Than You Think. ([Read](posts/welcome/index.qmd))
+
+
+## Current working projects
+- [📊**Data Anaysis**] Data analysis project for Asia-Pacific Association for International Education (APAIE) (*host by ETC5543, Monash University, 2025*)
+
+
+## Completed working project
+- [👩🏻‍🏫 **Education**] Instructional Design Project: Year 8 STEM-Immersion Program (*EDF5648, Monash University, 2022*)
+
+- [📊 **Data Analysis**] Exploration the educational resource distribution in Melbourne Major Cities through ACARA’s School Profile 2020 (*FIT5147, Monash University, 2022*)
+
+- [👩🏻‍🏫 **Education**] An Investigation into STEAM Integration: Teaching Practice and Teachers’ Perspectives. (*EDF4100 & EDF4101, Monash University, 2020*)

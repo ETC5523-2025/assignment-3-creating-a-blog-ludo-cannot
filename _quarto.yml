@@ -2,16 +2,38 @@ project:
   type: website
 
 website:
-  title: "blog-template"
+  title: "Can Li"
   navbar:
+    search: true
     right:
+      - blog-post.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/ludo-cannot
+  page-footer:
+    left: |
+      <div style="line-height: 1.4;">
+      <strong>Can Li</strong><br>
+      Master of Business Analytics Student<br>
+      Monash University<br>
+      © Copyright 2025 Can Li
+      </div>
+    right: |
+      <div style="text-align: right; line-height: 1.4;">
+      <i class="fas fa-envelope"></i> <a href="mailto:clii0016@student.monash.edu">clii0016@student.monash.edu</a><br>
+      <i class="fab fa-github"></i> <a href="https://github.com/ludo-cannot">ludo-cannot</a> on GitHub<br>
+      <i class="fas fa-map-marker-alt"></i> Canberra, ACT, Australia
+      </div>
+
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: false
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 
 
