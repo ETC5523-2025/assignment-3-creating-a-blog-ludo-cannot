@@ -1,0 +1,48 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+  background-color: #006DAE;
+}
+
+.nav-footer {
+  background-color: #eed6d3;
+  color: #67595e;
+}
+
+#quarto-header > nav {
+  background-color: #f9f1f0;
+}
+
+.menu-text {
+  color: #3b0404;
+}
+
+.navbar-title {
+  color: #3b0404;
+  font-weight: 800;
+}
+
+.menu-text:hover {
+  color: #d98594;
+
+}
+
+.nav-link.active > .menu-text {
+  color: #b95c50;
+  font-weight: bold;
+}
+
+#title-block-header > div.quarto-title-banner.page-columns.page-full {
+  background-color: #f9f1f0;
+}
+
+#title-block-header > div.quarto-title-banner.page-columns.page-full > div > h1 {
+  color: #3b0404;
+}
+
+
+a {
+    background-color: rgba(0,0,0,0);
+    font-weight: 500;
+    font-family: "Source Sans 3", sans-serif;
+    text-decoration: underline;
+}
